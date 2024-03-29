@@ -1,0 +1,15 @@
+.post {
+    display: flex;
+    padding: 15px;
+    border: 2px solid grey;
+    margin-top: 15px;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.title {
+    padding-bottom: 5px;
+    text-transform: uppercase;
+}

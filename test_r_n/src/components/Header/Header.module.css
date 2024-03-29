@@ -1,0 +1,10 @@
+.header {
+    display: flex;
+    align-items: center;
+    height: 70px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    width: 100%;
+    position: fixed;
+    background-color: rgb(198, 235, 235);
+}

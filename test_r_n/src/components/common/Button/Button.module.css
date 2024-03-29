@@ -1,0 +1,16 @@
+.button {
+    padding: 5px 15px;
+    color: grey;
+    font-size: 14px;
+    background: transparent;
+    border: 1px solid grey;
+    border-radius: 15px;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: black;
+}
+
+.button:disabled {
+    color: gray;
+    cursor: not-allowed;
+}
